@@ -29,7 +29,7 @@ private static Scanner scanner = new Scanner(System.in);
             for(int i=0; i<array.length; i++){
                 sortedArray[i] = array[i];
             }
-//            int [] sortedArray = Arrays.copyOf(array, array.length); // another way to write the function above after the sortIntegers method.
+
 
             boolean swap = true;
             int get;
